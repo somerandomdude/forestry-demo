@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- _projects/test-project.html
 - index.md
