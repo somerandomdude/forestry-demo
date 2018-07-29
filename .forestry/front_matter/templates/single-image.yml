@@ -1,0 +1,8 @@
+---
+label: Single image
+hide_body: false
+is_partial: true
+fields:
+- type: file
+  name: single-image
+  label: Single image
