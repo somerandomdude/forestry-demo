@@ -1,0 +1,11 @@
+---
+label: Double image
+hide_body: false
+is_partial: true
+fields:
+- type: file
+  name: left_image
+  label: Left image
+- type: file
+  name: right_image
+  label: Right image
