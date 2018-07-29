@@ -31,3 +31,5 @@ fields:
   template_types:
   - single-image
   - double-image
+pages:
+- _projects/test.html
